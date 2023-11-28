@@ -1,0 +1,23 @@
+h1{
+ margin-left: 230px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.disney{
+    width: 750px;
+    height: 600px;
+}
+.bigben{
+    width: 750px;
+    height: 700px;
+}
+body{
+    background-color:rgb(180, 223, 247);
+    margin-left: 550px;
+}
+h2{
+    margin-top: 100px;
+    margin-left: 5px;
+}
+.footer{
+    margin-left: 590px;
+}
